@@ -39,5 +39,10 @@ namespace Pokus020
         {
             //vetev Lojza
         }
+
+        private void listBox1_SelectedIndexChanged(object sender, EventArgs e)
+        {
+            //listbox Pepa
+        }
     }
 }
