@@ -20,12 +20,13 @@ namespace Pokus020
         private void Form1_Load(object sender, EventArgs e)
         {
             //ahoj
-            //ahoj 2
+           
         }
 
         private void button1_Click(object sender, EventArgs e)
         {
             //Andrea
+            //
         }
     }
 }
