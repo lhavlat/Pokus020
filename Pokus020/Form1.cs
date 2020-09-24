@@ -44,5 +44,10 @@ namespace Pokus020
         {
             //listbox Pepa
         }
+
+        private void listBox2_SelectedIndexChanged(object sender, EventArgs e)
+        {
+            //opice
+        }
     }
 }
