@@ -32,6 +32,7 @@ namespace Pokus020
         private void button2_Click(object sender, EventArgs e)
         {
             //dalsi tlacitko
+            //dalsi tlacitko 2
         }
 
         private void label1_Click(object sender, EventArgs e)
