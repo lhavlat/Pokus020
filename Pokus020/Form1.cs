@@ -34,5 +34,10 @@ namespace Pokus020
             //dalsi tlacitko
             //dalsi tlacitko 2
         }
+
+        private void label1_Click(object sender, EventArgs e)
+        {
+            //vetev Lojza
+        }
     }
 }
